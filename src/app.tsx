@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Bulkbeef from './pages/BulkBeef';
 import CottegeCheese from './pages/CottegeCheese';
 import Home from './pages/Home';
-import Links from './pages/Links';
+import Links from './pages/links';
 import LunchMeat from './pages/LunchMeat';
 import Mfolio from './pages/Mfolio';
 
