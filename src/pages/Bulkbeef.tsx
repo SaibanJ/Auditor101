@@ -2,8 +2,7 @@ import React from 'react';
 import ReactTableUI from 'react-table-ui';
 import { useMemo, useRef } from 'react';
 import type { TableInstance, DataType } from 'react-table-ui';
-import Header from '../layouts/general/header';
-import Dropdown from '../components/Dropdown';
+import Dropdown from '../components/dropdown';
 import { Link } from 'react-router-dom';
 
 /** Structure of data provided foe each row. */

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Dropdown from '../components/Dropdown';
+import Dropdown from '../components/dropdown';
 import { useState, Fragment } from 'react';
 import {
 	Accordion,
