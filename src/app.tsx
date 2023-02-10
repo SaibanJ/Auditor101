@@ -1,6 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Bulkbeef from './pages/BulkBeef';
+import Bulkbeef from './pages/Bulkbeef';
 import CottegeCheese from './pages/CottegeCheese';
 import Home from './pages/Home';
 import Links from './pages/links';
