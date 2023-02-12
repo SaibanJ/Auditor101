@@ -12,7 +12,7 @@ const Hero = () => {
 				<div className='chat chat-start'>
 					<div className='chat-image avatar'>
 						<div className='w-10 rounded-full'>
-							<img src={person} />
+							<img src='' />
 						</div>
 					</div>
 					<div className='chat-bubble'>So, you’re an auditor now, huh?</div>
@@ -21,7 +21,7 @@ const Hero = () => {
 				<div className='chat chat-start'>
 					<div className='chat-image avatar'>
 						<div className='w-10 rounded-full'>
-							<img src={person} />
+							<img src='' />
 						</div>
 					</div>
 					<div className='chat-bubble max-w-md'>

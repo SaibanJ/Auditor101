@@ -463,7 +463,7 @@ const $49e0e310520f4084$var$Hero = ()=>{
                                 children: /*#__PURE__*/ (0, $ltMAx$reactjsxruntime.jsx)("div", {
                                     className: "w-10 rounded-full",
                                     children: /*#__PURE__*/ (0, $ltMAx$reactjsxruntime.jsx)("img", {
-                                        src: person
+                                        src: ""
                                     })
                                 })
                             }),
@@ -481,7 +481,7 @@ const $49e0e310520f4084$var$Hero = ()=>{
                                 children: /*#__PURE__*/ (0, $ltMAx$reactjsxruntime.jsx)("div", {
                                     className: "w-10 rounded-full",
                                     children: /*#__PURE__*/ (0, $ltMAx$reactjsxruntime.jsx)("img", {
-                                        src: person
+                                        src: ""
                                     })
                                 })
                             }),
